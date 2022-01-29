@@ -1,0 +1,20 @@
+DELETE from directoriesfile;
+delete from documentdb;
+delete from dropIndirfile;
+delete from  dropInfile;
+delete from  dropInkeyRepository;
+delete from  file;
+delete from gallerydb;
+delete from indexstructure;
+delete from keyrepository;
+delete from keyValueBackend;
+delete from keyvalueUI;
+delete from recentfile;
+delete from recyclebin;
+delete from sharedDb;
+delete from sharedfile;
+delete from shareddirfile;
+delete from sharedkeyrepository;
+delete from sqlite_sequence;
+delete from usermanagement;
+
